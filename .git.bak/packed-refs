@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+09b87ad65c0e15be56c9f1f3f9c1170919036b32 refs/remotes/origin/dependabot/npm_and_yarn/acorn-6.4.1
+91134e2ad3e24e4df5dcb0a239055c3a309975ec refs/remotes/origin/dependabot/npm_and_yarn/elliptic-6.5.3
+e15b3262612a2900939c3defbbf6ac4c0e287fcb refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.19
+c7f932a8ee1d377764d77b59664f5460a956304e refs/remotes/origin/master
