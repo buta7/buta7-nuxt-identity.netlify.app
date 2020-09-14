@@ -1,6 +1,6 @@
-# hige-nuxt-netlify-identity
+# hige-nuxt-identity-netlify.app
 
-* 動作確認済み(2020/9/11)
+* 動作確認済み(2020/09/11)
 * 運用方法
     * RegistrationをInvite onlyにすることで保護できる(Sign Upリンクが消える)
     * https://app.netlify.com/sites/hige-nuxt-identity/identity から招待できる
@@ -39,13 +39,11 @@ $ yarn generate
 * 招待のみにする(事前にサインアップしてユーザ作っておくこと)
     * Dashboard>Site Settings>Identity>Registragion
         * Registration preferences: Invite only
-
 * ローカルデバッグ時の認証(screenshot/screenshot-local-login.png)
     * Development Settings
         * URL: https://hige-nuxt-identity.netlify.app/ > Set site's URL
 * note
     * ひげ/おなか痛い
-    * 牛/フーバー
 
 ## Link
 
