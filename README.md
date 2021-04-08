@@ -1,5 +1,6 @@
-# hige-nuxt-identity-netlify.app
+# buta7-nuxt-identity-netlify.app
 
+* Netlifyの認証機能Identityを使ったサンプル
 * 動作確認済み(2020/09/11)
 * 運用方法
     * RegistrationをInvite onlyにすることで保護できる(Sign Upリンクが消える)
